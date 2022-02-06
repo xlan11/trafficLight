@@ -1,3 +1,3 @@
 # trafficLight
 
-# first solo project that i've written myself
+first solo project that i've written myself
