@@ -10,7 +10,7 @@ function lightsOff(){
     red.style.background = ("rgba(255, 0, 0, 0.5)")
     red.style.boxShadow = ""
     //clear amber light
-    amber.style.background = ("rgb(240, 163, 10)")
+    amber.style.background = ("rgba(240, 163, 10, 0.5)")
     amber.style.boxShadow = ""
     // clear green light
     green.style.boxShadow = ""
